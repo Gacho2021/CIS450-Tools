@@ -1,0 +1,7 @@
+echo "# CIS450-Tools" >> README.md
+git init
+git add README.md
+git commit "first commit"
+git branch main
+git remote add origin https://github.com/Gacho2021/CIS450-Tools.git
+git push -u origin main
